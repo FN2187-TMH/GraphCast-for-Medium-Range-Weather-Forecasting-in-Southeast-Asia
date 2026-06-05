@@ -4,7 +4,9 @@
 [![Framework](https://img.shields.io/badge/Backend-PyTorch-ee4c2c.svg)](https://pytorch.org/)
 
 **GraphCast SEA** is a specialized, regional deep learning weather forecasting system designed for Southeast Asia (SEA). It predicts key atmospheric and surface variables up to 72 hours ahead. Inspired by Google DeepMind's original GraphCast, this repository implements a highly optimized, compact variant (~0.54M parameters) custom-engineered to execute efficiently on accessible hardware (such as a single NVIDIA Tesla T4 GPU) without sacrificing structural fidelity.
-
+<p align="center">
+  <img src="GraphCast-for-Medium-Range-Weather-Forecasting-in-Southeast-Asia\Slides\southeast-asia-region-map-of-countries-in-southeastern-asia-vector-illustration-2BYTAAB.jpg" alt="Southeast Asia Spatial Scope" width="60%">
+</p>
 ---
 
 ## 🎯 Project Objectives
